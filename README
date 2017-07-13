@@ -1,3 +1,8 @@
+# tftb-0.2
+
+这是一个matlab时频分析工具箱，用来支持经验模式分解EMD工具箱的构建，有朋友反映说下载不到，我就把源码上传上来，代码的原始地址为[http://www.csdn.net](http://www.csdn.net)
+
+
 The Time-Frequency Toolbox (TFTB) is a collection of about 100 scripts
 for GNU Octave and Matlab (R) developed for the analysis of
 non-stationary signals using time-frequency distributions. It is
